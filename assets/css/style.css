@@ -2143,7 +2143,7 @@ body.auto-hide-mobile-nav.mobile-nav-hide .nav-toggle {
   right: 0;
   opacity: 0;
   border-radius: 0.25rem;
-  transition: all 0.3s ease-out;
+
 }
 
 .portfolio-item a:hover .item-overlay {
